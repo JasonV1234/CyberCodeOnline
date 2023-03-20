@@ -6940,7 +6940,7 @@
  	 	 	}
  	 	},
  	 	"shareDungeon": {
- 	 	 	"trans": "Делиться",
+ 	 	 	"trans": "Поделиться",
  	 	 	"eng": "Share"
  	 	},
  	 	"buttonTut": {
@@ -7357,7 +7357,7 @@
  	 	 	 	"eng": "Gang Name"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Введите полное имя своей банды",
+ 	 	 	 	"trans": "Введите полное имя вашей банды",
  	 	 	 	"eng": "Enter the full name of your gang"
  	 	 	}
  	 	},
@@ -7495,7 +7495,7 @@
  	 	 	 	"eng": "1. Have your friend enter your in-game name during character creation"
  	 	 	},
  	 	 	"step2": {
- 	 	 	 	"trans": "2. Сделано, вот и все!",
+ 	 	 	 	"trans": "2. Сделано, так держать!",
  	 	 	 	"eng": "2. done, thats it!"
  	 	 	}
  	 	},
